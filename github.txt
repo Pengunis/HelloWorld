@@ -1,0 +1,7 @@
+원하는 폴더에 들어가서
+git init (숨긴파일에 git 파일 생성)
+git remote add origin [주소] (github 레퍼지토리 설정)
+git status (dir 확인)
+git add [파일명]
+git commit -m "[memo]"
+git push origin master
